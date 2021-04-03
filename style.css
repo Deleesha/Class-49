@@ -1,0 +1,15 @@
+h1{
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+
+.games{
+        background-color: crimson;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+
+}
+
